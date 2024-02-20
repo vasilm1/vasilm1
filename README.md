@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vasil</h1>
-<h3 align="center">An ambitious developer from Texas</h3>
 
 - 🌱 I’m currently learning **Flask, FastAPI, and Pandas**
 
