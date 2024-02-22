@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vasil</h1>
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **FastAPI, HTML, and JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vasilm1?tab=repositories](https://github.com/vasilm1?tab=repositories)
 
