@@ -2,11 +2,11 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vasilm1?tab=repositories](https://github.com/vasilm1?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/vasilm1?tab=repositories)
 
 - 📫 How to reach me **vasko1087@gmail.com**
 
-- 🌐 Website [https://vasilm.me]
+- 🌐 Website https://vasilm.me
 
 <p align="left">
 </p>
