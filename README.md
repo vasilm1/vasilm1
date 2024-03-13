@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vasil</h1>
 
-- 🌱 I’m currently learning to use **React**
+- 🌱 I’m currently grinding LeetCode
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/vasilm1?tab=repositories)
 
